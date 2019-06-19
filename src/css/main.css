@@ -32,7 +32,7 @@ a:hover {
 	font-size: 1em;
 }
 
-.navber__icon:hover {
+.navbar__icon:hover {
 	color: #ED4C4C;
 	cursor: pointer;
 }
