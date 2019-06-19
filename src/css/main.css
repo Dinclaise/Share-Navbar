@@ -118,7 +118,7 @@ section {
 	background: #E27635;
 }
 
-h2 {
+h2, h1 {
 	margin: 0;
 	line-height: 1em;
 	font-weight: 100;
